@@ -13,6 +13,7 @@
 #include <iostream>
 #include <numeric>
 #include <stdexcept>
+#include "patch_.h"
 
 namespace fasttext {
 
